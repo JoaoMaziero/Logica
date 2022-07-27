@@ -15,7 +15,7 @@ public class AlistamentoMilitar {
         } else if (sexo == 'M' && idade >= 18) {
             System.out.println("alistamento obrigatório!!!");
         } else if (sexo == 'F' && idade >= 18) {
-            System.out.println("Deseja se alistar!!!");
+            System.out.println("Deseja se alistar!!! ");
         }
     }
 }
