@@ -5,6 +5,8 @@ public class CalculadoraImposto {
         float porcentagem = 30;
         float resultado = salario * (porcentagem/100);
         System.out.println(resultado);
+        /* */
+
     }
 
 
