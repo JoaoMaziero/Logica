@@ -1,4 +1,4 @@
-package academy.devdojo.variaveis;
+package academy;
 
 import java.net.SocketOption;
 import java.sql.SQLOutput;

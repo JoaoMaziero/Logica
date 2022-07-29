@@ -1,6 +1,4 @@
-package academy.devdojo.estruturascondicionais.ifelse;
-
-import java.sql.SQLOutput;
+package academy.devdojo.ifelse;
 
 public class VerificarIdade {
     public static void main(String[] args) {
