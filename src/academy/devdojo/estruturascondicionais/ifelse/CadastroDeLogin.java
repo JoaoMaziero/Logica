@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais.ifelse.ifelse;
+package academy.devdojo.estruturascondicionais.ifelse;
 
 import java.util.Scanner;
 
