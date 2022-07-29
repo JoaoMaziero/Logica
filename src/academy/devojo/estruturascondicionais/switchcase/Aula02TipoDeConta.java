@@ -10,7 +10,7 @@ public class Aula02TipoDeConta {
         System.out.println("forneça o tipo de conta,");
         String conta = imput.next();*/
 
-        conta = "CONTA CORRENTE";
+        String conta = "CONTA CORRENTE";
 
         switch (conta) {
             case "CONTA POUPAÇA":
