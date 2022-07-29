@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifelse.ifelse;
+
 public class CalculadoraImpostoComCondicional {
     public static void main(String[] args) {
         float salario = 4700.50F;

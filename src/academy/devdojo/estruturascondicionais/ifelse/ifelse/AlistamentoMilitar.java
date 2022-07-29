@@ -1,4 +1,5 @@
-import javax.swing.text.html.HTMLDocument;
+package academy.devdojo.estruturascondicionais.ifelse.ifelse;
+
 import java.util.Scanner;
 
 public class AlistamentoMilitar {

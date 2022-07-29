@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifelse.ifelse;
+
 public class ImparOuPar {
     public static void main(String[] args) {
         int numero = 4;
