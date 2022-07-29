@@ -1,4 +1,4 @@
-package academy.devdojo.ifelse;
+package academy.devojo.estruturascondicionais.ifelse;
 
 public class VerificarIdade {
     public static void main(String[] args) {

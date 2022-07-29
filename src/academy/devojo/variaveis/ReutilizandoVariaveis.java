@@ -1,4 +1,4 @@
-package academy;
+package academy.devojo.variaveis;
 
 public class ReutilizandoVariaveis {
     public static void main(String [] args) {

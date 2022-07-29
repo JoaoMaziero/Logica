@@ -1,4 +1,4 @@
-package academy;
+package academy.devojo.variaveis;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

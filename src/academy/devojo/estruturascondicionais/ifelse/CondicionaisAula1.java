@@ -1,4 +1,4 @@
-package academy.devdojo.ifelse;
+package academy.devojo.estruturascondicionais.ifelse;
 
 public class CondicionaisAula1 {
     public static void main(String[] args) {

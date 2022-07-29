@@ -1,5 +1,4 @@
-package academy.devdojo.ifelse;/* Receba um número inteiro do usuário e imprima o dia da semana correspondente
-sendo 1 = segunda feira */
+package academy.devojo.estruturascondicionais.ifelse;
 
 import java.util.Scanner;
 
