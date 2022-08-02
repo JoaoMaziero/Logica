@@ -8,7 +8,7 @@ public class Aula01IntroducaoArrays {
         notas[1] = 8.0;
         notas[2] = 3.0;
         notas[3] = 6.0;
-        for (int i = 0; i<=3 ; i++) {
+        for (int i = 0; i < notas.length ; i++) {
             System.out.println(notas[i]);
         }
     }
