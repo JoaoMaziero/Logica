@@ -1,7 +1,5 @@
 package academy.devojo.estruturascondicionais.switchcase;
 
-import java.util.Scanner;
-
 public class Aula02TipoDeConta {
     public static void main(String[] args) {
 

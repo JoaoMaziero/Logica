@@ -1,6 +1,5 @@
 package academy.devojo.lacosderepeticao.whiles;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Aula05DoWhile {

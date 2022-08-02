@@ -1,8 +1,5 @@
 package academy.devojo.variaveis;
 
-import java.net.SocketOption;
-import java.sql.SQLOutput;
-
 public class TestandoVariaveis {
     public static void main(String[] args) {
         char masculino = 'M';
