@@ -1,6 +1,6 @@
-package academy.devojo.lacosderepeticao;
+package academy.devojo.lacosderepeticao.whiles;
 
-public class Aula01Introducao {
+public class Aula01IntroducaoWhiles {
     public static void main(String[] args) {
 
         int contador = 1;
