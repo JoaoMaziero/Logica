@@ -2,7 +2,7 @@ package academy.devojo.arrays;
 
 import java.util.Scanner;
 
-public class Aula04ExercicioArraysMelhorado {
+public class Aula03ExercicioArraysMelhorado {
     public static void main(String[] args) {
 
         int [] array1 =  new int[3];
