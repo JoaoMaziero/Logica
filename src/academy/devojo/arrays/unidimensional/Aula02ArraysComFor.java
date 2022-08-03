@@ -1,6 +1,5 @@
-package academy.devojo.arrays;
+package academy.devojo.arrays.unidimensional;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class Aula02ArraysComFor {
