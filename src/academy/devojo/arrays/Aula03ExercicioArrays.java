@@ -20,9 +20,8 @@ public class Aula03ExercicioArrays {
         }
         System.out.println("Vetor 3 multiplicado");
         for (int i =0; i < array3.length ; i++) {
-            System.out.println("Vetor 1 posicao " + i + " = " + array1[i] + "  Vetor 2 posicao " +i + " = "+ array2[i]);
             array3[i] = array1[i] * array2[i];
-            System.out.println("   Vetor 3  posicao "+ i + " = "+ array3[i] );
+            System.out.println("Vetor 1 P."+ i + " " + array1[i] + " x Vetor 2 P." +i + " "+ array2[i] +" = " + array3[i] );
         }
     }
 }
